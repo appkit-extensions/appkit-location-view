@@ -1,0 +1,26 @@
+{
+  "name": "appkit-location-view",
+  "version": "1.0.0",
+  "description": "appkit-location-view extension for Appkit",
+  "scripts": {},
+  "keywords": [],
+  "repository": "empty",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-location-view": "^0.1.5"
+  },
+  "engines": {
+    "appkit": "^1.0.0"
+  },
+  "appkit": {
+    "modules": [],
+    "components": [
+      {
+        "name": "LocationView",
+        "script": "index.js"
+      }
+    ],
+    "libs": []
+  }
+}
