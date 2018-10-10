@@ -9,7 +9,8 @@
   "license": "ISC",
   "dependencies": {
     "react-native-location-view": "^0.1.5",
-    "react-native-maps": "^0.20.1"
+    "react-native-maps": "^0.20.1",
+    "react-native-vector-icons": "^4.6.0"
   },
   "engines": {
     "appkit": "^1.0.0"
