@@ -1,2 +1,2 @@
-import LocationView from 'react-native-location-view;
+import LocationView from 'react-native-location-view';
 export default LocationView;
